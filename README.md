@@ -1,3 +1,3 @@
-# fossstall
+# FOSSstall
 
 Content: Everything about FOSS 
