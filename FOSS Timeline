@@ -1,13 +1,27 @@
 // Time line here
 
 // created from :: https://archive.is/8ZseW
+//              :: https://archive.is/uyw71
+
+
+1970 -- Bell Labs (AT&T) created C language to implement a portable Operating System (Ken Thompson, Dennis Ritchie, (one more person))
+
+1971 -- first edition of UNIX comes out
+1972 -- Dennis Ritchie rewrites B and calls it C
+
+1975 -- Bourne Shell is born
+
+1977 -- Berkeley Software design releases BSD
 
 1981 -- fall of Massachusetts Institute of Technology Artificial Intelligence Lab Hacker Community
-1984 -- Richard M Stallman quits job at Massachusetts Institute of Technology to work on GNU
+1984 -- Richard M Stallman quits job at Massachusetts Institute of Technology to work on GNU (Why?)
 
 1985 -- RMS starts work on EMACS
 
 1986 -- the FSF is created
+
+1989 -- release of GNU
+     --  release of GNU GPLv1
 
 1991 -- Linus Torvalds develops a 'free' kernel called Linux
 
@@ -22,3 +36,5 @@
 
 1998 -- Netscape releases its browsers source code, marking the start of Mozilla project
      -- The term Open Source is coined
+
+December 2003 -- Linux kernel 2.6 released
