@@ -1,19 +1,30 @@
 // List of Free and open hardware (FOH) and their specifications
 
-Arduino : 
- Single-board microcontroller
+Arduino : Single-board microcontroller
+ Details:
  Arduino started in 2005 as a project for students at the Interaction Design Institute Ivrea in Ivrea, Italy.
  The Uno board can be powered via the USB connection or with an external power supply. The power source is selected automatically. 
  An Arduino board consists of an Atmel 8-, 16- or 32-bit AVR microcontroller with complementary components that facilitate programming and incorporation into other circuits.
  
-Raspberry PI
+Raspberry PI : System on chip (SoC)
  latest model : raspberry pi 2
  The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse. It is a capable little device that enables people of all ages to explore computing, and to learn how to program in languages like Scratch and Python. It’s capable of doing everything you’d expect a desktop computer to do, from browsing the internet and playing high-definition video, to making spreadsheets, word-processing, and playing games.
  Raspberry Pi  has the ability to interact with the outside world, and has been used in a wide array of digital maker projects, from music machines and parent detectors to weather stations and tweeting birdhouses with infra-red cameras. We want to see the Raspberry Pi being used by kids all over the world to learn to program and understand how computers work.
  https://www.raspberrypi.org/about/
 
-MicroHOPE
+MicroHOPE : 
+ Developed by IUAC (Inter-University Accelerator Centre)
+ Use AVR microcontroller like Arduino
+ Can be connected to PC's through USB
+ ATmega32 microcontroller from Atmel
+ There is no complex IDE for MicroHOPE however a simple text editor with a couple of buttons to invoke avrgcc and avrdude ( to compile and upload the code) is available. It is tested on both GNU/Linux and MSWindows. Debian packages are available and it therefore is compatible with the Raspberry Pi computer as well.
+ Being an open hardware product, MicroHOPE will try to become the lowest priced one in this category
+ https://www.quora.com/What-is-the-difference-between-Arduino-and-MICRO-HOPE
  http://www.microhope.org/started.php
+ http://www.iuac.res.in/~elab/phoenix/microhope/microhope.pdf
  
 expEYES
  ExpEYES is from the PHOENIX project of Inter-University Accelerator Centre,New Delhi. It is a hardware & software framework for developing science experiments, demonstrations and projects without getting in to the details of electronics or computer programming. It converts your PC into a science laboratory. PHOENIX (Physics with Home-made Equipment and Innovative Experiments) project was started, in 2005 as a part of IUAC's outreach program, with the objectives of developing  affordable laboratory equipment and training teachers. Design of ExpEYES combines the real-time measurement capability of micro-controllers with the ease and flexibility  of Python programming language for data analysis and visualisation. It also functions as a test equipment for electronics hobbyists and engineering students. Software for all products from PHOENIX are distributed under GNU General Public License. The hardware designs are open and royalty-free commercial production is allowed.
+ ExpEYES ( Experiments for Young Engineers and Scientists) is an Open Hardware and Free Software framework for developing science experiments, classroom demonstrations and projects. It also functions as a test equipment for electronics hobbyists and engineering students.
+ ExpEYES is portable, expandable and affordable, supporting wide range of experiments from high school to post graduate level. It combines the real-time measurement capability of micro-controllers with the ease and flexibility of Python programming language for data analysis and visualization.
+ With the objectives of developing affordable laboratory equipment and training science teachers, ExpEYES is from the PHOENIX ((Physics with Home-made Equipment and Innovative Experiments) project of Inter-University Accelerator Centre, New Delhi. It converts your PC into a portable science laboratory. 
